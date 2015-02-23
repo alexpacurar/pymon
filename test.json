@@ -1,0 +1,28 @@
+{
+   "disk_stats":[
+      "io_time",
+      "writes_completed",
+      "reads_completed"
+   ],
+   "load_stats":[
+      "avg5",
+      "avg15",
+      "avg1"
+   ],
+   "mem_stats":[
+      "SwapFree",
+      "MemFree",
+      "Active",
+      "Cached",
+      "MemAvailable",
+      "Buffers"
+   ],
+   "net_stats":[
+      "rx_bytes",
+      "rx_errs",
+      "tx_drop",
+      "tx_bytes",
+      "tx_errs",
+      "rx_drop"
+   ]
+}
